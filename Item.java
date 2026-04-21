@@ -1,3 +1,4 @@
+//created item class for inventory
 public class Item {
     private String itemId;
     private String itemName;
